@@ -1,1 +1,1 @@
-# landing-page
+This will be a project in which I aim to make a mock application website for Jujutsu Technical College, a school from the hit manga series on Shonen Jump called Jujutsu Kaisen, written by Akutami Gege. All characters/art included in the mock website are property of and belong to the author.
